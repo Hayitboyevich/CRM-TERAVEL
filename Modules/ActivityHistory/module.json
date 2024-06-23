@@ -1,0 +1,11 @@
+{
+    "name": "ActivityHistory",
+    "alias": "activityhistory",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ActivityHistory\\Providers\\ActivityHistoryServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05244532-4943-495e-b54b-2a0cbba0027c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/Http/Controllers/DebitController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/Http/Controllers/DebitController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/Http/Controllers/TaxSettingController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/Http/Controllers/TaxSettingController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/Http/Middleware/CompanyMiddleware.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/Http/Middleware/CompanyMiddleware.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../config/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/lang/ru/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/lang/ru/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/components/setting-sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/views/components/setting-sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/sections/menu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/views/sections/menu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/views/sections/setting-sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../resources/views/sections/setting-sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../routes/web-settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../routes/web-settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../routes/web.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2gB9s9KuysElpdFFsSrDAbNig3Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05244532-4943-495e-b54b-2a0cbba0027c" name="Changes" comment="" />
+      <created>1715160308283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715160308283</updated>
+      <workItem from="1715160309388" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+{
+    "name": "ExceptionSender",
+    "alias": "exceptionsender",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ExceptionSender\\Providers\\ExceptionSenderServiceProvider"
+    ],
+    "files": []
+}

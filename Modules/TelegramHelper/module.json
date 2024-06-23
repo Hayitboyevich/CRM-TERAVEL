@@ -1,0 +1,11 @@
+{
+    "name": "TelegramHelper",
+    "alias": "telegramhelper",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TelegramHelper\\Providers\\TelegramHelperServiceProvider"
+    ],
+    "files": []
+}

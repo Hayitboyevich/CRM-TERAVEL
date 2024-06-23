@@ -1,0 +1,11 @@
+{
+    "name": "QuiQoe",
+    "alias": "quiqoe",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\QuiQoe\\Providers\\QuiQoeServiceProvider"
+    ],
+    "files": []
+}
